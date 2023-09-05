@@ -1,3 +1,4 @@
+```
 1.创建ssh key
 ssh-keygen -t rsa -C "yin.jiayu@qq.com"
 然后在用户目录下会有一个.ssh文件夹
@@ -23,3 +24,4 @@ git push -u origin master //把本地库的所有内容推送到远程库上
 
 下载
 git clone xxx  //下载到本地
+```
